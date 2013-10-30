@@ -1,0 +1,102 @@
+.panel-logo-body {
+	background: #FFFFFF url(../images/logo.gif) no-repeat center center;
+}
+
+.panel-login-body {
+	background: #FFFFFF;
+}
+
+/**
+* Para el Desktop
+*/
+#north .x-panel-body {
+	background: #7F99BE url(../images/region-north-bg.gif) repeat-x
+		center;
+	border: 0px;
+	color: white;
+	font-family: verdana;
+	font-weight: normal;
+	padding-top: 8px;
+}
+
+#north .x-panel-body #north-left {
+	padding-left: 8px;
+	font-size: 16px;
+}
+
+#north .x-panel-body #north-center {
+	font-size: 16px;
+	text-align: center;
+}
+
+#north .x-panel-body #north-right {
+	padding-right: 12px;
+	font-size: 14px;
+	text-align: right;
+}
+
+#north .x-panel-body #north-right a{
+	color: white;	
+}
+
+#north .x-panel-body #north-right .x-panel-body a:LINK {
+	color: white;
+}
+
+#north .x-panel-body #north-right .x-panel-body a:VISITED {
+	color: #56CCFF;
+}
+
+/**
+icono del panel oeste
+*/
+.icon-modules {
+	background: transparent url(../images/modules.png) no-repeat center center;
+}
+
+/**
+icono del panel centro
+*/
+.icon-home {
+	background: transparent url(../images/principal_home.png) no-repeat center center;
+}
+
+/**
+*menu
+*/
+.icon-collapse-all {
+	background: transparent url(../images/collapse-all.gif) no-repeat center center;
+}
+
+.icon-expand-all {
+	background: transparent url(../images/expand-all.gif) no-repeat center center;
+}
+
+/*
+* modulos
+*/
+.icon-add-btn{
+	background:transparent url(../images/add.gif) no-repeat center center; 
+}
+
+.icon-edit-btn{
+	background:transparent url(../images/edit.gif) no-repeat center center; 
+}
+
+.icon-delete-btn{
+	background:transparent url(../images/delete.gif) no-repeat center center; 
+}
+
+.icon-save-btn{
+	background:transparent url(../images/save.gif) no-repeat center center; 
+}
+
+.icon-closed-period{
+	background: transparent url(../images/icon-closed-period.png) no-repeat center center;
+}
+.icon-reading-pendient{
+	background: transparent url(../images/icon-reading-pendient.png) no-repeat center center;
+}
+.icon-water-service{
+	background: transparent url(../images/icon-water.png) no-repeat center center;
+}
