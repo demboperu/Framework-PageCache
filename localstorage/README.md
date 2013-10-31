@@ -8,8 +8,9 @@ View apply in Live
 
 go to:
 
-http://localhost/pagecache
-
+<pre>
+<code>http://localhost/pagecache</code>
+</pre>
 
 
 The structure of the example is in ExtJS MVC.
