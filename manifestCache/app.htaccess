@@ -1,1 +1,6 @@
 AddType text/cache-manifest .manifest
+
+<Files solitaire.manifest> 
+    ExpiresActive On 
+    ExpiresDefault "access" 
+</Files>
