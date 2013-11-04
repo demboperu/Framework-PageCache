@@ -17,9 +17,8 @@ These technologies do not apply to all navigators.
 
 
 References:
-
-<pre>
 <code>
+<pre>
 https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache
-</code>
 </pre>
+</code>
