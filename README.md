@@ -13,4 +13,4 @@ Exist technology that they are part from HTML5 such as:
 - ApplicationCache
 - Cookies, etc.
 
-These techonlogies do not apply to all navigators.
+These technologies do not apply to all navigators.
