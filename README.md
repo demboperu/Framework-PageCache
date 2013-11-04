@@ -15,10 +15,3 @@ Exist technology that they are part from HTML5 such as:
 
 These technologies do not apply to all navigators.
 
-
-References:
-<code>
-<pre>
-https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache
-</pre>
-</code>
