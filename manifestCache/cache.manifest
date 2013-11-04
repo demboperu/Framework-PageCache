@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# rev 23
+
+# CACHE:
+index.html
+css/styles.css
+images/logo.jpeg
+images/logo1.jpeg
+images/logo3.jpg
+images/logo4.jpeg
+js/main.js
+
+# NETWORK:
+	# index.html
+# FALLBACK:
