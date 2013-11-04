@@ -18,8 +18,8 @@ These technologies do not apply to all navigators.
 
 References:
 
+<pre>
 <code>
-<label>
 https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache
-</label>
 </code>
+</pre>
