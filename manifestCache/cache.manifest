@@ -7,9 +7,10 @@ css/styles.css
 images/logo.jpeg
 images/logo1.jpeg
 images/logo3.jpg
-images/logo4.jpeg
+#images/logo4.jpeg
 js/main.js
 
 # NETWORK:
 	# index.html
+	images/logo4.jpeg
 # FALLBACK:
