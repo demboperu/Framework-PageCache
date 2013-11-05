@@ -1,6 +1,8 @@
 Framework-manifestCache
 ===================
-How to use Application Cache (manifest) for web applications offline.
+How to use Application Cache (manifest) for show content offline.
+
+Every file listed in the cache manifest file will be loaded at the beginning.
 
 [REFERENCES]
 
