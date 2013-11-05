@@ -7,7 +7,7 @@ The Web Cache (or Page Cache) is for to store data in memory cache of the naviga
 
 Existing technology that they are part from HTML5 such as:
 - LocalStorage Example here
-- Cache manifest - To cache manifest Example here 
+- Cache manifest - To cache static assets like images.  Example here 
 - SessionStorage
 - IndexDB
 - WebSQL
