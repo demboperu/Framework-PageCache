@@ -3,6 +3,7 @@ Framework-manifestCache
 How to use Application Cache (manifest) for show content offline.
 
 Every file listed in the cache manifest file will be loaded at the beginning.
+revision number will dictate a new fresh load of all the assets listed in the manifest
 
 [REFERENCES]
 
